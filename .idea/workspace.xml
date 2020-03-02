@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="371afccc-0db1-4e76-a0c6-bd06b93e54f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Problem_Solving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Balanced_Brackets_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Balanced_Brackets_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashCode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keep Them Silent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Max Area Histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Next Greater Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Next Smaller Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Previous Greater Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Previous Smaller Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rat_Maze_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +27,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Max Area Histogram">
     <configuration name="Balanced_Brackets_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem_Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,8 +49,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Max Area Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem_Solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Max Area Histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Max Area Histogram" />
         <item itemvalue="Python.Balanced_Brackets_1" />
       </list>
     </recent_temporary>
