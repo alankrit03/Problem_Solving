@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="371afccc-0db1-4e76-a0c6-bd06b93e54f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/N_primes_yield.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Next Greatest Element.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
