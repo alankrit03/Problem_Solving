@@ -12,10 +12,16 @@ stack = deque()
 stack.append(0)
 
 for i in range(1, n):
+    """If the current element of the array is smaller than the top element of the stack
+    then push the index of current element into the stack."""
 
     if arr[stack[-1]] >= arr[i]:
         stack.append(i)
+
     else:
+        """Now we find an element which is larger than the top element of stack. 
+        So we put that element in the result array until the element is greater than the elements in stack.
+        then push current element into the stack"""
         while stack and arr[stack[-1]] < arr[i]:
             result[stack.pop()] = arr[i]
         stack.append(i)
@@ -23,4 +29,4 @@ for i in range(1, n):
 while stack:
     result[stack.pop()] = None
 
-print('result = ',result)
+print('result = ', result)
