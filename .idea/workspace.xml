@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="371afccc-0db1-4e76-a0c6-bd06b93e54f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Deepest Leaves Sum (Approach 2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Max Heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May20B_CORUS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May20B_Covid19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Min Heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print_All_Subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree Inorder (Iterative Stack).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree Inorder (Morris Method).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree Postorder (Iterative Stack).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree Preorder (Iterative Stack).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree Preorder (Morris Method).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Problem_Solving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Problem_Solving.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Add One bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kth_minimum_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Longest Prime Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ugly Number III (Brute Force).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Max Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Max Heap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Next Greater Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Next Greater Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Next Smaller Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Next Smaller Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Previous Greater Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Previous Greater Element.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Previous Smaller Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Previous Smaller Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +40,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Min Heap">
-    <configuration name="Heap Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Kth_minimum_1">
+    <configuration name="Kth_minimum_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem_Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heap Sort.py" />
+      <option name="SCRIPT_NAME" value="E:\Problem_Solving\Kth_minimum_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="INT to BIN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Longest Prime Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem_Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INT to BIN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Prime Subarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="May20B_CORUS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Next Smaller Element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem_Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/May20B_CORUS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Next Smaller Element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Min Heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ugly Number III (Brute Force)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem_Solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Min Heap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ugly Number III (Brute Force).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Min Heap" />
+        <item itemvalue="Python.Kth_minimum_1" />
+        <item itemvalue="Python.Ugly Number III (Brute Force)" />
+        <item itemvalue="Python.Longest Prime Subarray" />
+        <item itemvalue="Python.Next Smaller Element" />
         <item itemvalue="Python.Max Heap" />
-        <item itemvalue="Python.Heap Sort" />
-        <item itemvalue="Python.INT to BIN" />
-        <item itemvalue="Python.May20B_CORUS" />
       </list>
     </recent_temporary>
   </component>
@@ -192,29 +188,102 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1594625805807">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1596778713038">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594625805807" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1594625805807">
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596778713038" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1596778713038">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1594625805807" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1594625805807">
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596778713038" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1596778713038">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1594625805807" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1594625805807">
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596778713038" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1596778713038">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1594625805807" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595042932037">
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596778713038" />
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom" timestamp="1596773975231">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1595042932037" />
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587189579851">
+    <state width="1514" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596773975231" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center" timestamp="1596773975231">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587189579851" />
+    <state width="1514" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1596773975231" />
+    <state width="1514" height="277" key="GridCell.Tab.1.left" timestamp="1596773975231">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1596773975231" />
+    <state width="1514" height="277" key="GridCell.Tab.1.right" timestamp="1596773975231">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1596773975231" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1596257435778">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1596257435778" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longest Prime Subarray.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -14,16 +14,16 @@ def max_heapify(arr,n,i):
         max_heapify(arr,n,largest)
 
 
-def build_heap(arr,n):
+def build_max_heap(arr,n):
     idx = n//2 - 1
 
     for i in range(idx,-1,-1):
-        # print(arr)
+        print(arr)
         max_heapify(arr,n,i)
 
     return arr
 
-nums = [10,8,5,6,7,2,3]
+nums = [10,8,5,6,7,2,3,11,34,54,67]
 # build_heap(nums,7)
 
-print(build_heap(nums,len(nums)))
+print(build_max_heap(nums,len(nums)))

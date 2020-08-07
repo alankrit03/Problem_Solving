@@ -6,21 +6,19 @@ OUTPUT : 7, 4, 3, 2, 2, 3, 3, 3, 2, None
 
 from collections import deque
 
-arr = [int(x) for x in input().split()]
+# arr = [int(x) for x in input().split()]
+arr = [10 ,7 ,4 ,3 ,2 ,9 ,10, 11, 3 ,2]
 n = len(arr)
 result = [0] * n
 
 stack = deque()
-stack.append(0)
 
-for i in range(1, n):
+for i in range(n):
+    while stack and arr[stack[-1]] > arr[i]:
+        result[stack[-1]] = arr[i]
+        stack.pop()
 
-    if arr[stack[-1]] < arr[i]:
-        stack.append(i)
-    else:
-        while stack and arr[stack[-1]] >= arr[i]:
-            result[stack.pop()] = arr[i]
-        stack.append(i)
+    stack.append(i)
 
 while stack:
     result[stack.pop()] = None
